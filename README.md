@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi humans !
+
+I am Dorgeless and I would like to learn how to create applications
